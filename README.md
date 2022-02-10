@@ -3,8 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## download the project
-After Downloading or clone -> go to the root directory of the project -> open Command Prompt and type "npm install" to install all depencences.
-
+## go to the root directory of the project -> 
+##open Command Prompt 
+## type "npm install" to install all depencences.
 
 ### `npm start` to run the application in localhost
 
